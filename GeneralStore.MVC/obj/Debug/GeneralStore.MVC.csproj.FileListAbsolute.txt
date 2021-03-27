@@ -106,3 +106,6 @@ C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\GeneralStore.MVC\GeneralSto
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.csproj.CopyComplete
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.dll
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.pdb
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.Migrations.InitialCreate.resources
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.csproj.GenerateResource.cache
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Red Badge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.Migrations.AddedCustomer.resources
