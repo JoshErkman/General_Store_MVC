@@ -9,7 +9,7 @@ namespace GeneralStore.MVC.Models
     public class Customer
     {
         [Key]
-        public int CustomerID { get; set; }
+        public int CustomerId { get; set; }
 
         [Required]
         [Display(Name = "First Name")]
@@ -20,6 +20,12 @@ namespace GeneralStore.MVC.Models
         public string LastName { get; set; }
 
         [Display(Name = "Full Name")]
-        public string FullName { get; }
+        public string FullName
+        {
+            get
+            {
+                return FirstName + " " + LastName;
+            }
+        }
     }
 }
